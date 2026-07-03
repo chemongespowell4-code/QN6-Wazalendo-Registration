@@ -1,0 +1,7 @@
+CREATE TABLE Members (
+    MemberID TEXT,
+    FullName TEXT,
+    NIN TEXT,
+    Phone TEXT,
+    Deposit DOUBLE
+);
